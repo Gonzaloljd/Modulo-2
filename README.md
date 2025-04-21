@@ -5,4 +5,5 @@ sin mostrar el código subyacente, siguiendo un formato limpio. No obstante, si 
 en los chunks correspondientes para hacer visible el desarrollo.
 
 Esteban Lombardo - 13377
+
 Cornejo Tomás - 13321
