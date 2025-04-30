@@ -6,4 +6,5 @@ en los chunks correspondientes para hacer visible el desarrollo.
 * Esteban Lombardo - 13377
 * Cornejo Tomás - 13321
 * Tomas Paganini - 13509
+* Franco Sosa Olaiz - 13177
   
